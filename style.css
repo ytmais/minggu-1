@@ -1,0 +1,17 @@
+html {
+    margin:0;
+    padding:0;
+}
+
+.c1 {
+    color:black;
+    background-color:red;
+    font-style:Courrier;
+    height:100pv;
+    width:20pv;
+}   
+
+table {
+    border:1px solid black;
+    border-collapse: collapse;
+}
